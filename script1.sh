@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello world"
-date
+date +%d-%m-%Y
